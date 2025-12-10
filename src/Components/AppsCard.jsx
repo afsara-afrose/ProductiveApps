@@ -1,16 +1,17 @@
 import React from "react";
 import { FaDownload, FaStar } from "react-icons/fa";
+import { Link } from "react-router";
 
 const AppsCard = ({app}) => {
 
   return (
-     <div className="w-11/12 bg-white rounded-xl shadow p-4 hover:scale-105">
+     <Link to={`/app-details/${app.id}`} className="w-11/12 bg-white rounded-xl shadow p-4 hover:scale-105">
       {/* Image */}
-      <div className="h-40  bg-gray-300 rounded-lg ">
+      <div className="h-50  bg-gray-300 rounded-lg ">
         <img
           src={app.image}
           alt={app.title}
-          className="h-full w-full rounded-xl p-4 bg-amber-50"
+          className="h-full w-full rounded-xl p-4 bg-gray-200"
         />
       </div>
 
@@ -32,7 +33,7 @@ const AppsCard = ({app}) => {
           <span>{app.ratingAvg}</span>
         </div>
       </div>
-    </div>
+    </Link>
   );
 };
 
