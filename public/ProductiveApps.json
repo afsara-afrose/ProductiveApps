@@ -1,0 +1,372 @@
+[
+  {
+    "image": "https://i.ibb.co.com/Pv1kr0F0/Instagram-App-App-Store.jpg",
+    "title": "Instagram",
+    "companyName": "Meta",
+    "id": 1,
+    "description": "A social media platform for sharing photos, videos, and stories.",
+    "size": 55,
+    "reviews": 12500000,
+    "ratingAvg": 4.5,
+    "downloads": 3000000000,
+    "ratings": [
+      { "name": "1 star", "count": 800000 },
+      { "name": "2 star", "count": 900000 },
+      { "name": "3 star", "count": 2200000 },
+      { "name": "4 star", "count": 4500000 },
+      { "name": "5 star", "count": 7000000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/VpJTNjKW/Id-e-de-snapchat.jpg",
+    "title": "Snapchat",
+    "companyName": "Snap Inc",
+    "id": 2,
+    "description": "Instant photo messaging and AR filters for creative expression.",
+    "size": 48,
+    "reviews": 9200000,
+    "ratingAvg": 4.3,
+    "downloads": 1500000000,
+    "ratings": [
+      { "name": "1 star", "count": 600000 },
+      { "name": "2 star", "count": 700000 },
+      { "name": "3 star", "count": 1300000 },
+      { "name": "4 star", "count": 3000000 },
+      { "name": "5 star", "count": 3600000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Tqm0mYqq/Travel-to-Oaxaca-Mexico-A-Mega-Backpacking-Guide-Castaway-with-Crystal.jpg",
+    "title": "Airbnb",
+    "companyName": "Airbnb Inc",
+    "id": 3,
+    "description": "A global platform for booking homes, apartments, and experiences.",
+    "size": 42,
+    "reviews": 4100000,
+    "ratingAvg": 4.7,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 230000 },
+      { "name": "3 star", "count": 350000 },
+      { "name": "4 star", "count": 900000 },
+      { "name": "5 star", "count": 2420000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/1YzvCj2h/Udemy-Logo.jpg",
+    "title": "Udemy",
+    "companyName": "Udemy Inc",
+    "id": 4,
+    "description": "A learning platform offering thousands of online courses.",
+    "size": 60,
+    "reviews": 2800000,
+    "ratingAvg": 4.6,
+    "downloads": 350000000,
+    "ratings": [
+      { "name": "1 star", "count": 90000 },
+      { "name": "2 star", "count": 120000 },
+      { "name": "3 star", "count": 310000 },
+      { "name": "4 star", "count": 720000 },
+      { "name": "5 star", "count": 1560000 }
+    ]
+  },
+  {
+    "image": "https://pbs.twimg.com/profile_images/1623230060055629825/IxI18R8Y_400x400.jpg",
+    "title": "Programming Hero",
+    "companyName": "Programming Hero Team",
+    "id": 5,
+    "description": "A beginner-friendly coding learning platform with interactive lessons.",
+    "size": 40,
+    "reviews": 890000,
+    "ratingAvg": 4.8,
+    "downloads": 12000000,
+    "ratings": [
+      { "name": "1 star", "count": 20000 },
+      { "name": "2 star", "count": 25000 },
+      { "name": "3 star", "count": 60000 },
+      { "name": "4 star", "count": 180000 },
+      { "name": "5 star", "count": 605000 }
+    ]
+  },
+
+  {
+    "image": "https://i.ibb.co.com/zHR2qrXz/You-Tube-logo.jpg",
+    "title": "YouTube",
+    "companyName": "Google",
+    "id": 6,
+    "description": "The world's largest video streaming and sharing platform.",
+    "size": 75,
+    "reviews": 15000000,
+    "ratingAvg": 4.6,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 900000 },
+      { "name": "2 star", "count": 1000000 },
+      { "name": "3 star", "count": 2800000 },
+      { "name": "4 star", "count": 5200000 },
+      { "name": "5 star", "count": 7000000 }
+    ]
+  },
+
+  {
+    "image": "https://i.ibb.co.com/qFxYY86Q/Face-Book.jpg",
+    "title": "Facebook",
+    "companyName": "Meta",
+    "id": 7,
+    "description": "A global social networking platform connecting billions of people.",
+    "size": 60,
+    "reviews": 20000000,
+    "ratingAvg": 4.2,
+    "downloads": 7000000000,
+    "ratings": [
+      { "name": "1 star", "count": 1500000 },
+      { "name": "2 star", "count": 1600000 },
+      { "name": "3 star", "count": 3000000 },
+      { "name": "4 star", "count": 5200000 },
+      { "name": "5 star", "count": 8700000 }
+    ]
+  },
+
+  {
+    "image": "https://i.ibb.co.com/Ld1bBdfq/Twitter-Unveils-Rebranding-As-X-An-Everything-App-Powered-By-AI.jpg",
+    "title": "Twitter (X)",
+    "companyName": "X Corp",
+    "id": 8,
+    "description": "A micro-blogging platform for sharing short messages and updates.",
+    "size": 48,
+    "reviews": 9000000,
+    "ratingAvg": 4.1,
+    "downloads": 2500000000,
+    "ratings": [
+      { "name": "1 star", "count": 700000 },
+      { "name": "2 star", "count": 800000 },
+      { "name": "3 star", "count": 1900000 },
+      { "name": "4 star", "count": 2600000 },
+      { "name": "5 star", "count": 3000000 }
+    ]
+  },
+
+  {
+    "image": "https://i.ibb.co.com/pBBHdRC9/Whats-App-NL-januari-2015-9-4-miljoen-gebruikers-bron-Telecompaper-i-Culture-NL-januari.jpg",
+    "title": "WhatsApp",
+    "companyName": "Meta",
+    "id": 9,
+    "description": "A secure instant messaging and voice-calling service.",
+    "size": 35,
+    "reviews": 10000000,
+    "ratingAvg": 4.7,
+    "downloads": 8000000000,
+    "ratings": [
+      { "name": "1 star", "count": 600000 },
+      { "name": "2 star", "count": 500000 },
+      { "name": "3 star", "count": 1500000 },
+      { "name": "4 star", "count": 3800000 },
+      { "name": "5 star", "count": 4300000 }
+    ]
+  },
+
+  {
+    "image": "https://i.ibb.co.com/wNLzDpGw/Download-Telegram-png-icon.jpg",
+    "title": "Telegram",
+    "companyName": "Telegram FZ LLC",
+    "id": 10,
+    "description": "A fast and secure cloud-based messaging app.",
+    "size": 45,
+    "reviews": 3500000,
+    "ratingAvg": 4.8,
+    "downloads": 900000000,
+    "ratings": [
+      { "name": "1 star", "count": 150000 },
+      { "name": "2 star", "count": 180000 },
+      { "name": "3 star", "count": 300000 },
+      { "name": "4 star", "count": 800000 },
+      { "name": "5 star", "count": 2070000 }
+    ]
+  },
+
+  {
+    "image": "hhttps://i.ibb.co.com/xtKMnsBg/5-ik-heb-mijn-mobiel-als-muziekdrager-daar-staat.jpg",
+    "title": "Spotify",
+    "companyName": "Spotify AB",
+    "id": 11,
+    "description": "A leading music streaming platform with millions of tracks.",
+    "size": 56,
+    "reviews": 7200000,
+    "ratingAvg": 4.7,
+    "downloads": 2000000000,
+    "ratings": [
+      { "name": "1 star", "count": 400000 },
+      { "name": "2 star", "count": 450000 },
+      { "name": "3 star", "count": 700000 },
+      { "name": "4 star", "count": 1800000 },
+      { "name": "5 star", "count": 3850000 }
+    ]
+  },
+
+  {
+    "image": "https://i.ibb.co.com/CpRWKzVB/c-Netflix.jpg",
+    "title": "Netflix",
+    "companyName": "Netflix Inc",
+    "id": 12,
+    "description": "A streaming platform for movies, series, and documentaries.",
+    "size": 65,
+    "reviews": 5400000,
+    "ratingAvg": 4.5,
+    "downloads": 1200000000,
+    "ratings": [
+      { "name": "1 star", "count": 350000 },
+      { "name": "2 star", "count": 420000 },
+      { "name": "3 star", "count": 900000 },
+      { "name": "4 star", "count": 1600000 },
+      { "name": "5 star", "count": 2130000 }
+    ]
+  },
+
+  {
+    "image": "https://i.ibb.co.com/ksjXTD4P/Google-maps.jpg",
+    "title": "Google Maps",
+    "companyName": "Google",
+    "id": 13,
+    "description": "A navigation and location discovery platform used worldwide.",
+    "size": 40,
+    "reviews": 8000000,
+    "ratingAvg": 4.6,
+    "downloads": 6000000000,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 450000 },
+      { "name": "3 star", "count": 900000 },
+      { "name": "4 star", "count": 2500000 },
+      { "name": "5 star", "count": 3650000 }
+    ]
+  },
+
+  {
+    "image": "https://i.ibb.co.com/wF5W5Hzf/Drive.jpg",
+    "title": "Google Drive",
+    "companyName": "Google",
+    "id": 14,
+    "description": "A cloud storage platform for storing and syncing files.",
+    "size": 40,
+    "reviews": 4200000,
+    "ratingAvg": 4.8,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 230000 },
+      { "name": "3 star", "count": 310000 },
+      { "name": "4 star", "count": 1200000 },
+      { "name": "5 star", "count": 2250000 }
+    ]
+  },
+
+  {
+    "image": "https://i.ibb.co.com/8D15jtgH/Photogram.jpg",
+    "title": "PhotoGram",
+    "companyName": "Meta Platforms",
+    "id": 15,
+    "description": "Share photos, reels, stories, and stay connected with your followers.",
+    "size": 52,
+    "reviews": 120000,
+    "ratingAvg": 4.5,
+    "downloads": 2500000000,
+    "ratings": [
+      { "name": "1 star", "count": 5000 },
+      { "name": "2 star", "count": 7500 },
+      { "name": "3 star", "count": 11000 },
+      { "name": "4 star", "count": 30000 },
+      { "name": "5 star", "count": 66500 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/wZXk5HvG/Staybnb.jpg",
+    "title": "Staybnb",
+    "companyName": "Airbnb Inc",
+    "id": 16,
+    "description": "Book unique places to stay, anywhere in the world, anytime.",
+    "size": 41,
+    "reviews": 58000,
+    "ratingAvg": 4.7,
+    "downloads": 900000000,
+    "ratings": [
+      { "name": "1 star", "count": 2900 },
+      { "name": "2 star", "count": 3500 },
+      { "name": "3 star", "count": 6000 },
+      { "name": "4 star", "count": 16000 },
+      { "name": "5 star", "count": 29600 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/TqMBCFSJ/Explicaci-n-del-modelo-PDCA-PHVA.jpg",
+    "title": "SkillPoint",
+    "companyName": "Udemy Ltd",
+    "id": 17,
+    "description": "Learn anything online with thousands of expert-led courses.",
+    "size": 57,
+    "reviews": 75000,
+    "ratingAvg": 4.6,
+    "downloads": 650000000,
+    "ratings": [
+      { "name": "1 star", "count": 3400 },
+      { "name": "2 star", "count": 4200 },
+      { "name": "3 star", "count": 7000 },
+      { "name": "4 star", "count": 20000 },
+      { "name": "5 star", "count": 40400 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/GfNhx12p/download.jpg",
+    "title": "Pinterest",
+    "companyName": "Pinterest Inc.",
+    "id": 18,
+    "description": "Discover and save creative ideas with visual boards and AI-powered inspiration search.",
+    "size": 63,
+    "reviews": 980000,
+    "ratingAvg": 4.7,
+    "downloads": 1500000000,
+    "ratings": [
+      { "name": "1 star", "count": 35000 },
+      { "name": "2 star", "count": 41000 },
+      { "name": "3 star", "count": 75000 },
+      { "name": "4 star", "count": 210000 },
+      { "name": "5 star", "count": 620000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/jvYsHs7v/Download-Dribble-logo-png-Dribbble-icon-transparent-png.jpg",
+    "title": "Dribbble",
+    "companyName": "Dribbble Holdings Ltd.",
+    "id": 19,
+    "description": "Community for designers to share shots, explore creative ideas, and find design jobs.",
+    "size": 38,
+    "reviews": 80000,
+    "ratingAvg": 4.6,
+    "downloads": 80000000,
+    "ratings": [
+      { "name": "1 star", "count": 2400 },
+      { "name": "2 star", "count": 3700 },
+      { "name": "3 star", "count": 6200 },
+      { "name": "4 star", "count": 19000 },
+      { "name": "5 star", "count": 48700 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/DfJ8TnjZ/img-Canva-canva-canva-free-canvafree-5-44.jpg",
+    "title": "Canva",
+    "companyName": "Canva Pty Ltd",
+    "id": 20,
+    "description": "Create stunning designs, social posts, presentations, and graphics with templates and AI tools.",
+    "size": 85,
+    "reviews": 1200000,
+    "ratingAvg": 4.8,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 25000 },
+      { "name": "2 star", "count": 31000 },
+      { "name": "3 star", "count": 54000 },
+      { "name": "4 star", "count": 260000 },
+      { "name": "5 star", "count": 875000 }
+    ]
+  }
+]
