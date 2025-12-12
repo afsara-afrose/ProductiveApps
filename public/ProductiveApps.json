@@ -15,8 +15,10 @@
       { "name": "3 star", "count": 2200000 },
       { "name": "4 star", "count": 4500000 },
       { "name": "5 star", "count": 7000000 }
-    ]
+    ],
+    "appDescription": "Instagram is one of the most popular social platforms for sharing moments through photos and videos. It lets people express creativity using filters, reels, and stories. Users can follow friends, celebrities, creators, and explore new trends on the Explore page. The app also supports messaging, group chats, voice notes, and calls, making communication easier. Businesses use Instagram for marketing and brand visibility, while creators use it to grow audiences. The platform combines visual storytelling with simplicity, helping users stay connected and inspired every day."
   },
+
   {
     "image": "https://i.ibb.co.com/VpJTNjKW/Id-e-de-snapchat.jpg",
     "title": "Snapchat",
@@ -33,8 +35,10 @@
       { "name": "3 star", "count": 1300000 },
       { "name": "4 star", "count": 3000000 },
       { "name": "5 star", "count": 3600000 }
-    ]
+    ],
+    "appDescription": "Snapchat is a fun and fast messaging app where users send photos and videos called Snaps. These snaps disappear after being viewed, making conversations more casual and real. Snapchat is known for its filters, AR lenses, Bitmoji, and streaks that make chatting exciting. Users can also watch Spotlight videos, explore stories from creators and friends, and maintain streaks by snapping daily. The app focuses on real-time sharing and playful communication, especially popular among younger audiences who enjoy quick, creative interactions."
   },
+
   {
     "image": "https://i.ibb.co.com/Tqm0mYqq/Travel-to-Oaxaca-Mexico-A-Mega-Backpacking-Guide-Castaway-with-Crystal.jpg",
     "title": "Airbnb",
@@ -51,8 +55,10 @@
       { "name": "3 star", "count": 350000 },
       { "name": "4 star", "count": 900000 },
       { "name": "5 star", "count": 2420000 }
-    ]
+    ],
+    "appDescription": "Airbnb connects travelers with unique homes, rooms, apartments, and vacation stays around the world. Instead of traditional hotels, Airbnb offers homelike spaces where people can experience local culture. Users can filter stays by price, amenities, location, and style. Hosts list their properties, while guests book easily from the app. Airbnb also offers ‘Experiences,’ such as cooking classes, tours, and adventures led by locals. It is the perfect app for budget travel, solo trips, family vacations, and spontaneous getaways."
   },
+
   {
     "image": "https://i.ibb.co.com/1YzvCj2h/Udemy-Logo.jpg",
     "title": "Udemy",
@@ -69,8 +75,10 @@
       { "name": "3 star", "count": 310000 },
       { "name": "4 star", "count": 720000 },
       { "name": "5 star", "count": 1560000 }
-    ]
+    ],
+    "appDescription": "Udemy is an online learning platform that offers thousands of affordable courses on topics like programming, business, design, productivity, and more. Anyone can learn at their own pace through video lectures, quizzes, and downloadable resources. The app is great for beginners and professionals who want to upgrade their skills. Udemy regularly provides discounts and lifetime access to purchased courses. With expert instructors from around the world, the app makes education flexible, easy, and accessible for everyone."
   },
+
   {
     "image": "https://pbs.twimg.com/profile_images/1623230060055629825/IxI18R8Y_400x400.jpg",
     "title": "Programming Hero",
@@ -87,7 +95,8 @@
       { "name": "3 star", "count": 60000 },
       { "name": "4 star", "count": 180000 },
       { "name": "5 star", "count": 605000 }
-    ]
+    ],
+    "appDescription": "Programming Hero teaches coding through interactive lessons, storytelling, and fun challenges. It focuses on making programming easier and beginner-friendly with step-by-step tutorials. Users can learn HTML, CSS, JavaScript, and other core topics while building real projects. The app includes quizzes, coding tasks, and community support for learners. It is ideal for students who want to start coding from zero and enjoy a game-like learning experience. Programming Hero makes learning enjoyable, friendly, and practical for all levels."
   },
 
   {
@@ -106,9 +115,9 @@
       { "name": "3 star", "count": 2800000 },
       { "name": "4 star", "count": 5200000 },
       { "name": "5 star", "count": 7000000 }
-    ]
+    ],
+    "appDescription": "YouTube is the world's largest video-sharing platform, allowing users to watch, upload, and share videos across countless categories. From music videos and tutorials to vlogs and educational content, YouTube provides a space for creativity, entertainment, and learning. Users can subscribe to channels, like or comment on videos, and interact with communities worldwide. Its recommendation algorithms help viewers discover content tailored to their interests. YouTube also supports live streaming, premieres, and community posts, fostering real-time engagement. With mobile and desktop access, creators can monetize their channels through ads and memberships, while viewers enjoy content for free. YouTube has become an essential platform for education, entertainment, and global communication, shaping how people consume video media and connect online every day."
   },
-
   {
     "image": "https://i.ibb.co.com/qFxYY86Q/Face-Book.jpg",
     "title": "Facebook",
@@ -125,9 +134,9 @@
       { "name": "3 star", "count": 3000000 },
       { "name": "4 star", "count": 5200000 },
       { "name": "5 star", "count": 8700000 }
-    ]
+    ],
+    "appDescription": "Facebook is a leading social networking platform that enables users to connect with friends, family, and communities globally. Users can create profiles, post updates, photos, and videos, and engage with content through likes, comments, and shares. Facebook Groups and Pages allow people to join communities with shared interests or follow organizations and businesses. Its Messenger feature facilitates instant messaging and calls, both one-on-one and in groups. The platform integrates events, marketplace, and stories, providing diverse ways to communicate, shop, and share experiences. Facebook's algorithm personalizes news feeds to highlight content relevant to each user, while privacy settings give control over who sees personal information. As a hub for social interaction, Facebook plays a central role in connecting people and fostering communities worldwide."
   },
-
   {
     "image": "https://i.ibb.co.com/Ld1bBdfq/Twitter-Unveils-Rebranding-As-X-An-Everything-App-Powered-By-AI.jpg",
     "title": "Twitter (X)",
@@ -144,9 +153,9 @@
       { "name": "3 star", "count": 1900000 },
       { "name": "4 star", "count": 2600000 },
       { "name": "5 star", "count": 3000000 }
-    ]
+    ],
+    "appDescription": "Twitter, now rebranded as X, is a real-time social media platform where users share short messages called tweets. It allows individuals, celebrities, organizations, and governments to communicate directly with global audiences instantly. Users can follow others, like, retweet, or reply to posts, creating interactive conversations. Trending topics and hashtags highlight popular discussions, news, and viral content. Twitter supports multimedia such as photos, videos, and polls, enhancing engagement. It also serves as a platform for live updates during events, emergencies, and breaking news. X offers verification for notable accounts and various tools for content moderation and safety. With a focus on brevity and immediacy, Twitter/X has become a central platform for public discourse, networking, and information sharing in today’s digital world."
   },
-
   {
     "image": "https://i.ibb.co.com/pBBHdRC9/Whats-App-NL-januari-2015-9-4-miljoen-gebruikers-bron-Telecompaper-i-Culture-NL-januari.jpg",
     "title": "WhatsApp",
@@ -163,9 +172,9 @@
       { "name": "3 star", "count": 1500000 },
       { "name": "4 star", "count": 3800000 },
       { "name": "5 star", "count": 4300000 }
-    ]
+    ],
+    "appDescription": "WhatsApp is a widely used messaging application that allows users to send text messages, voice messages, photos, videos, and documents securely. It supports voice and video calls over the internet, enabling instant communication globally. WhatsApp offers end-to-end encryption, ensuring privacy and security for all messages and calls. Users can create group chats, broadcast messages, and share status updates with their contacts. The app is available on mobile devices and desktop, providing seamless cross-platform use. With features like location sharing, contact sharing, and multimedia support, WhatsApp has become an essential tool for personal and business communication. Its simplicity, reliability, and strong security make it one of the most trusted messaging platforms worldwide."
   },
-
   {
     "image": "https://i.ibb.co.com/wNLzDpGw/Download-Telegram-png-icon.jpg",
     "title": "Telegram",
@@ -182,9 +191,9 @@
       { "name": "3 star", "count": 300000 },
       { "name": "4 star", "count": 800000 },
       { "name": "5 star", "count": 2070000 }
-    ]
+    ],
+    "appDescription": "Telegram is a cloud-based instant messaging app known for speed, security, and privacy. It allows users to send text messages, voice messages, photos, videos, and files of any type. Telegram supports group chats, channels, and bots, providing diverse communication options for personal and professional use. Its end-to-end encryption in secret chats ensures private conversations. Telegram is accessible across multiple devices, including mobile, tablet, and desktop, with seamless synchronization. Users can customize themes, use stickers and GIFs, and schedule messages. The platform emphasizes security, speed, and simplicity, making it a favorite among users seeking an efficient messaging experience. With features like large group support, broadcast channels, and advanced privacy settings, Telegram continues to grow as a versatile communication platform worldwide."
   },
-
   {
     "image": "hhttps://i.ibb.co.com/xtKMnsBg/5-ik-heb-mijn-mobiel-als-muziekdrager-daar-staat.jpg",
     "title": "Spotify",
@@ -201,9 +210,9 @@
       { "name": "3 star", "count": 700000 },
       { "name": "4 star", "count": 1800000 },
       { "name": "5 star", "count": 3850000 }
-    ]
+    ],
+    "appDescription": "Spotify is a leading music and podcast streaming platform that offers millions of tracks, playlists, and podcasts across various genres. Users can listen to music online or offline, create personalized playlists, and discover new songs through algorithm-driven recommendations. Spotify supports both free and premium subscriptions, with premium offering ad-free listening, offline downloads, and higher audio quality. The platform is accessible on mobile, desktop, smart speakers, and other devices, enabling seamless music experiences. Spotify also allows users to follow artists, share playlists, and engage with podcasts. With personalized daily mixes, curated playlists, and collaborative features, Spotify has transformed how people discover, enjoy, and share music globally, making it an essential platform for music enthusiasts and podcast listeners alike."
   },
-
   {
     "image": "https://i.ibb.co.com/CpRWKzVB/c-Netflix.jpg",
     "title": "Netflix",
@@ -220,9 +229,9 @@
       { "name": "3 star", "count": 900000 },
       { "name": "4 star", "count": 1600000 },
       { "name": "5 star", "count": 2130000 }
-    ]
+    ],
+    "appDescription": "Netflix is a leading streaming service providing a vast library of movies, TV shows, and original content for global audiences. Users can watch content on-demand, create watchlists, and receive personalized recommendations. Netflix supports multiple devices, including smart TVs, smartphones, tablets, and desktops, ensuring access anytime and anywhere. It offers features like multiple user profiles, offline downloads, and parental controls. Netflix Originals have become renowned for quality storytelling, attracting diverse audiences worldwide. Its subscription-based model allows unlimited streaming without advertisements, enhancing the viewing experience. Netflix continuously updates its content library with new releases, films, and series across genres. The platform is widely recognized as a pioneer in digital entertainment, shaping the way audiences consume media, discover new stories, and enjoy cinematic experiences from the comfort of their homes."
   },
-
   {
     "image": "https://i.ibb.co.com/ksjXTD4P/Google-maps.jpg",
     "title": "Google Maps",
@@ -239,9 +248,9 @@
       { "name": "3 star", "count": 900000 },
       { "name": "4 star", "count": 2500000 },
       { "name": "5 star", "count": 3650000 }
-    ]
+    ],
+    "appDescription": "Google Maps is a comprehensive mapping and navigation service that helps users explore locations and plan routes worldwide. It offers real-time GPS navigation, traffic updates, public transit information, and walking directions. Users can search for businesses, restaurants, landmarks, and attractions, read reviews, and view photos. Street View and satellite imagery provide detailed perspectives of places globally. Google Maps allows users to create personalized maps, save favorite locations, and share directions. It also offers features like offline maps, route planning for multiple destinations, and real-time ETA updates. Widely used for daily commuting, travel planning, and discovering new places, Google Maps combines accurate mapping, real-time information, and location-based services, making it an essential tool for navigation and exploration."
   },
-
   {
     "image": "https://i.ibb.co.com/wF5W5Hzf/Drive.jpg",
     "title": "Google Drive",
@@ -258,11 +267,11 @@
       { "name": "3 star", "count": 310000 },
       { "name": "4 star", "count": 1200000 },
       { "name": "5 star", "count": 2250000 }
-    ]
+    ],
+    "appDescription": "Google Drive is a cloud storage service that allows users to securely store, access, and share files from any device. It supports documents, spreadsheets, presentations, photos, videos, and other file types. Users can collaborate in real-time using Google Docs, Sheets, and Slides, making it ideal for team projects, education, and business use. Drive integrates seamlessly with Gmail, Google Photos, and other Google services. It offers offline access, file version history, and robust sharing controls to manage permissions. With powerful search and organization features, users can quickly locate files. Google Drive ensures data security with encryption and backup options. It has become an essential tool for productivity, enabling individuals and teams to manage files efficiently, collaborate effortlessly, and access important documents anytime, anywhere."
   },
-
   {
-    "image": "https://i.ibb.co.com/8D15jtgH/Photogram.jpg",
+    "image": "https://i.ibb.co/8D15jtgH/Photogram.jpg",
     "title": "PhotoGram",
     "companyName": "Meta Platforms",
     "id": 15,
@@ -277,11 +286,11 @@
       { "name": "3 star", "count": 11000 },
       { "name": "4 star", "count": 30000 },
       { "name": "5 star", "count": 66500 }
-    ]
+    ],
+    "appDescription": "PhotoGram is a social media platform focused on photo sharing, enabling users to capture, edit, and post images to their followers. Users can apply filters, create albums, and interact with others through likes, comments, and shares. PhotoGram supports stories, reels, and other visual content formats, fostering creativity and engagement. It also allows private messaging, tagging friends, and following popular accounts to stay updated on trends. The platform offers personalized feeds powered by algorithms that recommend content based on user interests. With global accessibility and mobile-friendly features, PhotoGram has become a hub for photography enthusiasts, influencers, and everyday users to showcase their moments, connect with communities, and discover inspiring visual content."
   },
-
   {
-    "image": "https://i.ibb.co.com/wZXk5HvG/Staybnb.jpg",
+    "image": "https://i.ibb.co/wZXk5HvG/Staybnb.jpg",
     "title": "Staybnb",
     "companyName": "Airbnb Inc",
     "id": 16,
@@ -296,11 +305,11 @@
       { "name": "3 star", "count": 6000 },
       { "name": "4 star", "count": 16000 },
       { "name": "5 star", "count": 29600 }
-    ]
+    ],
+    "appDescription": "Staybnb is a travel app that connects users with unique accommodations worldwide, from private homes to vacation rentals. Users can search for stays based on location, price, amenities, and reviews, making travel planning flexible and personalized. Staybnb allows hosts to list properties, manage bookings, and communicate with guests securely. Travelers can read authentic reviews, view photos, and access maps to select the best options. The app also provides experiences and activities hosted locally to enrich trips. With a user-friendly interface and reliable booking system, Staybnb simplifies travel, offering both convenience and comfort. It empowers travelers to explore destinations affordably and discover local experiences while giving hosts a platform to share their spaces."
   },
-
   {
-    "image": "https://i.ibb.co.com/TqMBCFSJ/Explicaci-n-del-modelo-PDCA-PHVA.jpg",
+    "image": "https://i.ibb.co/TqMBCFSJ/Explicaci-n-del-modelo-PDCA-PHVA.jpg",
     "title": "SkillPoint",
     "companyName": "Udemy Ltd",
     "id": 17,
@@ -315,11 +324,11 @@
       { "name": "3 star", "count": 7000 },
       { "name": "4 star", "count": 20000 },
       { "name": "5 star", "count": 40400 }
-    ]
+    ],
+    "appDescription": "SkillPoint is an educational app designed to help users acquire new skills efficiently through interactive lessons and tutorials. It offers courses in programming, design, business, languages, and personal development. Users can track their progress, take quizzes, and earn certificates to showcase their learning achievements. SkillPoint emphasizes practical, hands-on learning experiences with real-world projects and exercises. The app provides video lectures, notes, and downloadable resources, making learning flexible and accessible on mobile and desktop devices. Personalized recommendations guide users to relevant courses based on their interests and skill levels. SkillPoint empowers individuals to upskill, explore career opportunities, and achieve personal growth by making quality education available anytime, anywhere."
   },
-
   {
-    "image": "https://i.ibb.co.com/GfNhx12p/download.jpg",
+    "image": "https://i.ibb.co/GfNhx12p/download.jpg",
     "title": "Pinterest",
     "companyName": "Pinterest Inc.",
     "id": 18,
@@ -334,11 +343,11 @@
       { "name": "3 star", "count": 75000 },
       { "name": "4 star", "count": 210000 },
       { "name": "5 star", "count": 620000 }
-    ]
+    ],
+    "appDescription": "Pinterest is a visual discovery platform where users can find, save, and organize creative ideas across a wide range of topics, including home decor, fashion, recipes, and travel. Users create boards to curate content, pin images and videos, and follow other users for inspiration. Pinterest’s search and recommendation system suggests personalized content tailored to individual interests. The platform enables users to explore trends, plan projects, and even shop products directly through pins. With features like story pins, idea guides, and collaborative boards, Pinterest encourages creativity, organization, and planning. It serves as a hub for inspiration and practical solutions, connecting users to ideas and products that enhance everyday life and creative endeavors."
   },
-
   {
-    "image": "https://i.ibb.co.com/jvYsHs7v/Download-Dribble-logo-png-Dribbble-icon-transparent-png.jpg",
+    "image": "https://i.ibb.co/jvYsHs7v/Download-Dribble-logo-png-Dribbble-icon-transparent-png.jpg",
     "title": "Dribbble",
     "companyName": "Dribbble Holdings Ltd.",
     "id": 19,
@@ -353,11 +362,11 @@
       { "name": "3 star", "count": 6200 },
       { "name": "4 star", "count": 19000 },
       { "name": "5 star", "count": 48700 }
-    ]
+    ],
+    "appDescription": "Dribbble is a platform for designers and creative professionals to showcase their work, explore innovative designs, and connect with peers. Users can upload projects, receive feedback, and build a professional portfolio to attract clients or collaborators. Dribbble features design resources, job opportunities, and creative challenges to foster professional growth. Users can follow other designers, like and comment on posts, and discover trends in UI/UX, graphic design, illustration, and animation. The platform promotes community engagement and networking, providing inspiration and motivation for both aspiring and experienced designers. Dribbble serves as a hub for creative talent, enabling collaboration, skill development, and visibility in the global design community."
   },
-
   {
-    "image": "https://i.ibb.co.com/DfJ8TnjZ/img-Canva-canva-canva-free-canvafree-5-44.jpg",
+    "image": "https://i.ibb.co/DfJ8TnjZ/img-Canva-canva-canva-free-canvafree-5-44.jpg",
     "title": "Canva",
     "companyName": "Canva Pty Ltd",
     "id": 20,
@@ -372,6 +381,7 @@
       { "name": "3 star", "count": 54000 },
       { "name": "4 star", "count": 260000 },
       { "name": "5 star", "count": 875000 }
-    ]
+    ],
+    "appDescription": "Canva is a versatile graphic design platform that allows users to create professional-quality visuals, including presentations, social media graphics, posters, and more. With a library of customizable templates, fonts, images, and illustrations, users can design easily without prior experience. Canva supports collaborative projects, enabling teams to work together in real-time. It also offers advanced tools like photo editing, animation, and branding kits for businesses and creators. Available on web, desktop, and mobile, Canva ensures accessibility and convenience. The platform is widely used by educators, marketers, entrepreneurs, and hobbyists for creative projects, marketing materials, and personal design needs. Canva simplifies graphic design, empowering users to bring ideas to life with minimal effort and maximum creativity."
   }
 ]
