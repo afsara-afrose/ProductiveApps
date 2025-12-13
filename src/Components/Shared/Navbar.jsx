@@ -50,7 +50,7 @@ const Navbar = () => {
         </div>
          {/* Logo Section */}
        <div className='flex items-center gap-1'>
-        <img src={logo} alt=""  className='h-10'/>
+        <img src={logo} alt=""  className='h-10 animate-spin'/>
          <Link to='/' className=" text-l font-bold text-[#9F62F2]">HERO.IO</Link>
        </div>
       </div>

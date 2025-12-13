@@ -15,7 +15,11 @@ const Home = () => {
 
     return (
       <>
+         {loading ? (
+        <ScaleLoader />
+      ) :(
       <Banner></Banner>
+      )}
 
 
 

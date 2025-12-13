@@ -23,7 +23,7 @@ const Footer = () => {
          <div>
             <h1 className='text-purple-600 font-bold text-xl text-center'>HERO.IO</h1>
             
-                <img src={logo} className='h-15 items-center mx-auto animate-spin' alt="" />
+                <img src={logo} className='h-15 items-center mx-auto' alt="" />
             
 
          </div>
